@@ -14,4 +14,7 @@ This repository is for practicing the GitHub Flow
     <img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook Badge"/>
   </a>
 </div>
-<h1 text-color="#79c314">Hi All</h1>  
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>  
