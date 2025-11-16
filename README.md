@@ -3,7 +3,6 @@ This repository is for practicing the GitHub Flow
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-Connect with me through
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anas-fady-658414135/?locale=en_US">
     <img src="https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn Badge"/>
@@ -15,3 +14,4 @@ Connect with me through
     <img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook Badge"/>
   </a>
 </div>
+<h1 text-color="#79c314">Hi All</h1>  
